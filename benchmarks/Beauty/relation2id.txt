@@ -1,0 +1,8 @@
+7
+belong_to_category	0
+also_bought	1
+also_viewed	2
+bought_together	3
+buy_after_viewing	4
+belong_to_brand	5
+buy	6
